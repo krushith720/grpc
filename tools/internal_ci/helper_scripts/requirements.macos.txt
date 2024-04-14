@@ -3,3 +3,4 @@ PyJWT==2.0.1
 pyOpenSSL==20.0.1
 PyYAML==5.4.1
 requests==2.25.1
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
