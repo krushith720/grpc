@@ -16,3 +16,4 @@ tenacity~=6.2
 Pygments~=2.9
 protobuf~=3.14
 xds-protos~=0.0.8
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
